@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://memory-1316723528.cos.ap-beijing.myqcloud.com/avatar/memory.jpg',
       name: 'Memory',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'Go see the <a href="https://memory-1316723528.cos.ap-beijing.myqcloud.com/yanhua/yanhuaI/yanhuaI.html" class="text-blue-500" target="_blank" >fireworks</a>',
     },
   }
 }
